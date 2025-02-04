@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha784&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha784" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha784" alt="pratiksha784" /></a> </p>
 
 - 🌱 I’m currently learning **Django,Python**
 
