@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratiksha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/2413754.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*hZJV9DjRZW9DJ4XfRwQaIA.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha784&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha784" /> </p>
 
